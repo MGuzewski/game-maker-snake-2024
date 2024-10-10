@@ -34,6 +34,13 @@
   },
   "name":"Snake 2024_2025",
   "resources":[
+    {"id":{"name":"obj_bomb","path":"objects/obj_bomb/obj_bomb.yy",},},
+    {"id":{"name":"obj_bonus","path":"objects/obj_bonus/obj_bonus.yy",},},
+    {"id":{"name":"obj_player_1","path":"objects/obj_player_1/obj_player_1.yy",},},
+    {"id":{"name":"obj_player_2","path":"objects/obj_player_2/obj_player_2.yy",},},
+    {"id":{"name":"obj_tail_player_1","path":"objects/obj_tail_player_1/obj_tail_player_1.yy",},},
+    {"id":{"name":"obj_tail_player_2","path":"objects/obj_tail_player_2/obj_tail_player_2.yy",},},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"room_main_game","path":"rooms/room_main_game/room_main_game.yy",},},
     {"id":{"name":"spr_bomb","path":"sprites/spr_bomb/spr_bomb.yy",},},
     {"id":{"name":"spr_bonus","path":"sprites/spr_bonus/spr_bonus.yy",},},
