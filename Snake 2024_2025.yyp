@@ -35,6 +35,13 @@
   "name":"Snake 2024_2025",
   "resources":[
     {"id":{"name":"room_main_game","path":"rooms/room_main_game/room_main_game.yy",},},
+    {"id":{"name":"spr_bomb","path":"sprites/spr_bomb/spr_bomb.yy",},},
+    {"id":{"name":"spr_bonus","path":"sprites/spr_bonus/spr_bonus.yy",},},
+    {"id":{"name":"spr_player_1","path":"sprites/spr_player_1/spr_player_1.yy",},},
+    {"id":{"name":"spr_player_2","path":"sprites/spr_player_2/spr_player_2.yy",},},
+    {"id":{"name":"spr_tail_player_1","path":"sprites/spr_tail_player_1/spr_tail_player_1.yy",},},
+    {"id":{"name":"spr_tail_player_2","path":"sprites/spr_tail_player_2/spr_tail_player_2.yy",},},
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
