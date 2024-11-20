@@ -13,8 +13,9 @@ speed = init_speed;
 /// @DnDVersion : 1
 /// @DnDHash : 18AAB221
 /// @DnDArgument : "var" "init_speed"
-/// @DnDArgument : "not" "1"
-if(!(init_speed == 0)){	/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDArgument : "op" "4"
+/// @DnDArgument : "value" "3"
+if(init_speed >= 3){	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 3E910DAB
 	/// @DnDParent : 18AAB221
